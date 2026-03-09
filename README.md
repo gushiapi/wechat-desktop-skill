@@ -5,7 +5,7 @@ Shareable Codex skill for interacting with the macOS WeChat desktop app.
 ## Repo layout
 
 ```text
-share/wechat-desktop-skill/
+wechat-desktop-skill/
 ├── README.md
 └── skills/
     └── wechat-desktop/
