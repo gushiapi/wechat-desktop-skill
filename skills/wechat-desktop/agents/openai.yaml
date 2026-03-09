@@ -1,0 +1,4 @@
+interface:
+  display_name: "WeChat Desktop"
+  short_description: "Automate safe WeChat desktop chat actions"
+  default_prompt: "Use $wechat-desktop to inspect the active WeChat window, read visible context, and safely draft or send a reply."
